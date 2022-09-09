@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - app1.yaml
   - sources
+  - hello-world-flux.yaml # Add it here
